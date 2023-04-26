@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 10px;
+}
+@font-face {
+    font-family: may_font1;
+    src: url("assets/fonts/roboto (1).woff2");
+
+}
+@font-face {
+    font-family: may_font2;
+    src: url("assets/fonts/roboto (2).woff2");
+
+}
+@font-face {
+    font-family: may_font3;
+    src: url("assets/fonts/roboto (3).woff2");
+
+}
+@font-face {
+    font-family: may_font4;
+    src: url("assets/fonts/raleway.woff2");
+
+}
+@font-face {
+    font-family: may_font5;
+    src: url("assets/fonts/ptsans.woff2");
+
+}
+@font-face {
+    font-family: may_font6;
+    src: url("assets/fonts/oswald.woff2");
+
+}
+@font-face {
+    font-family: may_font7;
+    src: url("assets/fonts/opensans1.woff2");
+
+}
+@font-face {
+    font-family: may_font8;
+    src: url("assets/fonts/opensans2.woff2");
+
+}
+@font-face {
+    font-family: may_font9;
+    src: url("assets/fonts/montserrat.woff2");
+
+}
+@font-face {
+    font-family: may_font10;
+    src: url("assets/fonts/archivonarrow.woff2");
+
+}
+::selection {
+    color: black;
+    background-color: #FFB400;
+}
+
+
+/*#######################################*/
+                /*Start*/
